@@ -1,6 +1,7 @@
 {
-"name": "Lorenz",
-"description": "passionate L2 researcher",
-"logo": "https://i.imgur.com/LI0L9qO.png",
-"twitter": "https://twitter.com/LehmannLorenz"
+  "name": "Lorenz",
+  "website": "https://www.example.com",
+  "description": "passionate L2 researcher",
+  "logo": "https://i.imgur.com/LI0L9qO.png",
+  "twitter": "https://twitter.com/LehmannLorenz"
 }
