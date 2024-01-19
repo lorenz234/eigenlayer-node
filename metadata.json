@@ -1,7 +1,7 @@
 {
   "name": "Lorenz",
-  "website": "https://www.example.com",
+  "website": "",
   "description": "passionate L2 researcher",
-  "logo": "https://github.com/lorenz234/eigenlayer-node/blob/dbe8630456c8a5223cdd652a4da63bb70a5507f3/me.png",
+  "logo": "https://raw.githubusercontent.com/lorenz234/eigenlayer-node/main/me.png",
   "twitter": "https://twitter.com/LehmannLorenz"
 }
